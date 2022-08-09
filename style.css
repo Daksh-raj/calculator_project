@@ -1,0 +1,36 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  background-color: grey;
+}
+.container {
+  text-align: center;
+}
+.container h1 {
+  font-family: sans-serif;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+.container .calculator input {
+  font-size: 20px;
+  height: 34px;
+  border-radius: 13px;
+  width: 100%;
+}
+table {
+  margin: auto;
+}
+.calculator {
+  display: inline-block;
+  margin-top: 40px;
+  background-color: purple;
+}
+table button {
+  font-size: 20px;
+  width: 60px;
+  height: 40px;
+  background-color: rgb(71, 195, 55);
+  border-radius: 10px;
+}
